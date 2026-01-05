@@ -70,4 +70,4 @@ Para rodar em sua máquina, você precisará configurar o WebDriver localmente:
 2.  Garanta que você tenha o Google Chrome instalado e o [ChromeDriver](https://chromedriver.chromium.org/downloads) compatível com sua versão no PATH do sistema.
 
 ---
-*Desenvolvido por [SEU NOME]. Sinta-se à vontade para contribuir ou entrar em contato!*
+*Desenvolvido por Rafael Rosa Alves. Sinta-se à vontade para contribuir ou entrar em contato!*
